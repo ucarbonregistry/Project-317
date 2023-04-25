@@ -8,6 +8,7 @@ ___________
 CDM Registered Activity: Project 0334 : LHSF Bagasse Project
 _____________
 Monitoring PERIOD CDM: 30 Dec 2005 - 06 Apr 2006
+_____________________
 Issuance request state: Issued
 _____________
 CERs requested up to 31 December 2012: 12871
@@ -16,6 +17,7 @@ Serial Range: Block start: IN-5-19200136-1-1-0-334      Block end: IN-5-19213006
 ________________________
 
 Monitoring PERIOD CDM: 07 Apr 2006 - 01 Jun 2007 
+____________________
 Issuance request state: Issued
 _________________
 CERs requested up to 31 December 2012: 31748
