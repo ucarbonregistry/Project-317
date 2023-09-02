@@ -2,6 +2,71 @@
 42 MW Biomass Based Power Generation at L.H. Sugar Factory Ltd. by Energy Advisory Services
 ____
 42 MW Capacity Biomass based Power Project of M/s. L.H. SUGAR FACTORIES LTD is located in Jangraulipul village in Pilibhit District in the state of Uttar Pradesh, India. LH Sugars has installed an 27 MW, 12 MW & 3 MW cogeneration power plant. Total electricity generation is 42 MW. Out of which around 60% that is around 25.2 MW electricity is exported to Uttar Pradesh Power Corporation Limited (UPPCL).
+__________________
+### UCR CoUs Issuance Date: 02/09/2023
+
+Total CoUs for 1st UCR MR Period: 736147
+_______________________________
+
+Serial Number: 0001-000001-079367-UCR-CoU-IN-317-01012013-31122013
+
+Vintage Year: 2013
+
+Quantity in CoU : 79367
+_____________________________
+Serial Number: 0001-079368-141008-UCR-CoU-IN-317-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 61641
+___________________
+Serial Number: 0001-141009-216434-UCR-CoU-IN-317-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 75426
+__________________________
+Serial Number: 0001-216435-270404-UCR-CoU-IN-317-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 53970
+_______________
+Serial Number: 0001-270405-350728-UCR-CoU-IN-317-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 80324
+______________________
+Serial Number: 0001-350729-445536-UCR-CoU-IN-317-01012018-31122018
+
+Vintage Year:2018
+
+Quantity: 94808
+______________________________
+Serial Number: 0001-445537-521367-UCR-CoU-IN-317-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 75831
+__________________
+Serial Number: 0001-521368-601218-UCR-CoU-IN-317-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 79851
+________________________
+Serial Number: 0001-601219-667617-UCR-CoU-IN-317-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 66399
+________________________
+Serial Number: 0001-667618-736147-UCR-CoU-IN-317-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 68530
 ___________________
 ### PRIOR HISTORY
 ___________
