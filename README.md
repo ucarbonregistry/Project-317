@@ -2,6 +2,17 @@
 42 MW Biomass Based Power Generation at L.H. Sugar Factory Ltd. by Energy Advisory Services
 ____
 42 MW Capacity Biomass based Power Project of M/s. L.H. SUGAR FACTORIES LTD is located in Jangraulipul village in Pilibhit District in the state of Uttar Pradesh, India. LH Sugars has installed an 27 MW, 12 MW & 3 MW cogeneration power plant. Total electricity generation is 42 MW. Out of which around 60% that is around 25.2 MW electricity is exported to Uttar Pradesh Power Corporation Limited (UPPCL).
+
+The proposed project activity with title under UCR “42 MW Bagasse based co-generation by M/S
+GM Sugar FactoriesLtd., Pilibhit (U.P.)”, implements a cogeneration power project of 27 MW, 12
+MW & 3 MW capacities which operates on mill bagasse of the sugar mill. Total electricity
+generation is 42 MW. Out ofwhich around 60% that is around 25.2 MW electricity is exported to Uttar
+Pradesh Power CorporationLimited (UPPCL).
+
+The project generates 817,941 MWh during the monitoring period of 01/01/2013 to 31/12/2022. The
+generated electricity is to Uttar Pradesh Power CorporationLimited (UPPCL) as per the prevailing tariff.
+The project is an operational activity with continuous reduction of GHG, currently being applied under
+“Universal Carbon Registry” (UCR).
 __________________
 ### UCR CoUs Issuance Date: 02/09/2023
 
